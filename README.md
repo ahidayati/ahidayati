@@ -1,5 +1,7 @@
 ### Hi there 👋
-![catcomputer](https://user-images.githubusercontent.com/78032924/111120570-ca7b3880-856b-11eb-8401-744a66087653.gif)
+
+![image](https://user-images.githubusercontent.com/78032924/111181267-177ffe80-85ae-11eb-8700-6b837cf71472.png)
+
 
 <!--
 **ahidayati/ahidayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![catcomputer](https://user-images.githubusercontent.com/78032924/111120570-ca7b3880-856b-11eb-8401-744a66087653.gif)
