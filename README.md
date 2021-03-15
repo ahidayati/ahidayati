@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![catcomputer1](https://user-images.githubusercontent.com/78032924/111181582-6a59b600-85ae-11eb-9bbf-3dcb54f0ed9b.gif)
+![catcomputer2](https://user-images.githubusercontent.com/78032924/111182193-f5d34700-85ae-11eb-81e7-a06c386b271f.gif)
 
 <!--
 **ahidayati/ahidayati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
