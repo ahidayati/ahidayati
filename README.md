@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning JavaScript. <br>
+🌱 I’m currently learning JavaScript. <br><br>
 ![catcomputer2](https://user-images.githubusercontent.com/78032924/111182193-f5d34700-85ae-11eb-81e7-a06c386b271f.gif)
 
 <!--
