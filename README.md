@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I have proficiency in HTML, CSS, and Bootstrap.<br>
+🔭 I know a bit of HTML, CSS, and Bootstrap.<br>
 🌱 I’m currently learning JavaScript and jQuery.<br><br>
 ![catcomputer2](https://user-images.githubusercontent.com/78032924/111182193-f5d34700-85ae-11eb-81e7-a06c386b271f.gif)
 
