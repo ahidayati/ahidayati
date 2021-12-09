@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 Working on HTML, CSS, Bootstrap, MySQL, JavaScript, jQuery, TypeScript, Angular, PHP. <br><br>
+🔭 Working on HTML, CSS, Bootstrap, MySQL, JavaScript, jQuery, TypeScript, Angular, PHP, Symfony. <br><br>
 ![catcomputer2](https://user-images.githubusercontent.com/78032924/111182193-f5d34700-85ae-11eb-81e7-a06c386b271f.gif)
 
 <!--
