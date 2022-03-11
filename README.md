@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Annisa
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=6000&width=500&height=40&lines=Welcome+to+Annisa's+GitHub+Profile!;Front-End+Web+Developer;Back-End+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&duration=7000&width=500&height=40&lines=Welcome+to+Annisa's+GitHub+Profile!;Front-End+Web+Developer;Back-End+Web+Developer)](https://git.io/typing-svg)
 <ul>
   <li> 🍜 Noodle</li>
   <li> Speak 🇬🇧 English, 🇫🇷 French, 🇮🇩 Indonesian</li>
