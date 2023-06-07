@@ -8,7 +8,8 @@
 </ul>
 
 ## 🖥️ Technologies
-🔭 Working on HTML, CSS, Bootstrap, MySQL, JavaScript, jQuery, TypeScript, Angular, PHP, Symfony, React. <br><br>
+🎯 Working on Java, Spring, Android, Kotlin.<br>
+🔭 Has experience on PHP, Symfony, SQL, JavaScript, jQuery, TypeScript, HTML, CSS, Bootstrap, Angular. <br><br>
 ![catcomputer2](https://user-images.githubusercontent.com/78032924/111182193-f5d34700-85ae-11eb-81e7-a06c386b271f.gif)
 
 <!--
